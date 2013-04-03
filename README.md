@@ -64,7 +64,7 @@ todoList([
 
 ## Why use an internal DSL?
 
-- It's a more convenient and safer alternative to string contatenation
+- It's a more convenient and safer alternative to string concatenation
 - Very flexible, you can use all the power of JavaScript functions and
   control structures
 - For small bits of HTML you might not want to switch contexts from code
